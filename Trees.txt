@@ -1,0 +1,9 @@
+Beech,30,400,200,No
+Maple,25,350,180,No
+Oak,40,500,220,No
+Pine,35,450,200,Yes
+Fir,28,370,190,Yes
+Cedar,33,390,210,Yes
+Birch,20,300,160,No
+Spruce,32,420,210,Yes
+Willow,27,340,185,No
